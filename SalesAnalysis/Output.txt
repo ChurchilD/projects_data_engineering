@@ -1,0 +1,14 @@
+ State      Sales
+5   VIC  105565000
+0   NSW   74970000
+3    SA   58857500
+2   QLD   33417500
+4   TAS   22760000
+1    NT   22580000
+6    WA   22152500
+States with below average Sales:
+  State     Sales
+2   QLD  33417500
+4   TAS  22760000
+1    NT  22580000
+6    WA  22152500
